@@ -1,0 +1,9 @@
+#忽略文件
+
+demo2.html
+
+test.html
+
+#忽略文件夹
+
+test/
